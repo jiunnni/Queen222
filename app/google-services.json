@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2224350634",
+    "firebase_url": "https://queen222-ea84b.firebaseio.com",
+    "project_id": "queen222-ea84b",
+    "storage_bucket": "queen222-ea84b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2224350634:android:228e208c08dfe7e1",
+        "android_client_info": {
+          "package_name": "com.jiun.queen222"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2224350634-p8jn1i0hm2st1l61hmnvkuqdc9qvj979.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jiun.queen222",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "2224350634-27d6i5sphbm2nbak595hbu7lfv37mgqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrvaRkYgpnCMdDr7604AxVDP9bQbxQ9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2224350634-27d6i5sphbm2nbak595hbu7lfv37mgqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
